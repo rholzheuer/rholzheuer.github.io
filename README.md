@@ -39,6 +39,4 @@ I am learning how to use **GitHub Pages** and write content in **Markdown**. Thi
 | Row 1    | Data     | More data|
 | Row 2    | Data     | More data|
 
-:smile: :thumbsup: :rocket:
-
 ![My favourite car.](https://files.porsche.com/filestore/image/multimedia/none/911-tus-modelimage-sideshot/model/930894f1-6214-11ea-80c8-005056bbdc38/porsche-model.png)
